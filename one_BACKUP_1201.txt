@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Testing purpose
+
+=======
+testing purpose creating from branch2
+>>>>>>> branch2
